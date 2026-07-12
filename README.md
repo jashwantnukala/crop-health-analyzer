@@ -105,11 +105,3 @@ This repository currently contains the **research proposal and technical design*
 
 - [CHANAKYA Fellowship Program 2026 — Call for Proposals](https://tihiitb.org/programs/hr-skill-development/cfp-2026/)
 - [TIH-IoT, IIT Bombay](https://tihiitb.org/)
-
-## Contact
-
-For queries related to the fellowship application process: **chanakya-iot@tihiitb.org**
-
----
-
-*Note: Intellectual property for models developed under this fellowship remains with TIH-IoT, IIT Bombay, per the CFP terms.*
