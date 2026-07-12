@@ -1,4 +1,4 @@
-# Literature Review — Image-Based Crop Disease Detection
+#Literature Review — Image-Based Crop Disease Detection
 ### Crops: Turmeric (*Curcuma longa*) & Ridge Gourd (*Luffa acutangula*)
 ### TIH-IoT IIT Bombay CHANAKYA Fellowship 2026
 
