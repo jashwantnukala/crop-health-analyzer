@@ -14,7 +14,6 @@ This repository documents the full research-to-deployment pipeline for two crops
 
 CHANAKYA (Comprehensive and Holistic Advancement of National Knowledge Yield and Analytics) pairs a faculty mentor and a student team (2 UG students, or 1–2 PG students) to work on an IoT/AI research project addressing a real societal problem. This project addresses the **Agriculture** application vertical: image processing for crop disease identification.
 
-- **Funding body:** TIH-IoT, IIT Bombay (NM-ICPS, DST, Government of India)
 - **IP ownership:** Remains with TIH-IoT, IIT Bombay
 - **Fellowship duration:** UG — up to 10 months · PG — till Dec 2027 or end of degree
 - **Deliverable mandate:** 3–5 candidate models per crop, comparative evaluation, field validation, and a deployment-ready inference pipeline
